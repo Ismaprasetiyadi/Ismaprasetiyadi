@@ -39,6 +39,7 @@ A statistic undergraduate who has a passion for data science and building deep l
 </a>
 [![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 <br/>
+<br/>
 
 ## 📊 GitHub Stats:
 
