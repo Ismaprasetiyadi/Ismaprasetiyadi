@@ -17,9 +17,7 @@ A statistic undergraduate who has a passion for data science and building deep l
 ### 🧰 Languages and Tools:
 
 [![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)](https://posit.co/products/open-source/rstudio/)
-
 [![R Shiny](https://img.shields.io/badge/-R%20Shiny-75AADB?style=flat&logo=r&logoColor=white)](https://shiny.posit.co/)
-
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45" align="left"/>
 </a>
@@ -41,7 +39,6 @@ A statistic undergraduate who has a passion for data science and building deep l
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45" align="left"/>
 </a>
-
 [![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
 ---
