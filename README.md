@@ -10,7 +10,7 @@ A statistic undergraduate who has a passion for data science and building deep l
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-isma-prasetiyadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-isma-prasetiyadi)
 
 ---
 
@@ -34,4 +34,3 @@ A statistic undergraduate who has a passion for data science and building deep l
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaprasetiyadi&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaprasetiyadi&layout=compact&theme=dark)
-
