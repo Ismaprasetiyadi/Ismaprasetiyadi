@@ -15,13 +15,8 @@ A statistic undergraduate who has a passion for data science and building deep l
 ---
 
 ### 🧰 Languages and Tools:
-
-<a href="https://posit.co/products/open-source/rstudio/" target="_blank" rel="noreferrer">
-  <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" alt="RStudio" width="45" height="45" align="left"/>
-</a>
-<a href="https://shiny.posit.co/" target="_blank" rel="noreferrer">
-  <img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" alt="R Shiny" width="45" height="45" align="left"/>
-</a>
+[![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)](https://posit.co/products/open-source/rstudio/)
+[![R Shiny](https://img.shields.io/badge/-R%20Shiny-75AADB?style=flat&logo=r&logoColor=white)](https://shiny.posit.co/)
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45" align="left"/>
 </a>
@@ -47,8 +42,8 @@ A statistic undergraduate who has a passion for data science and building deep l
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" alt="CUDA" width="45" height="45" align="left"/>
 </a>
 
-</br>
-
+<br/>
+<br/>
 ---
 
 ## 📊 GitHub Stats:
