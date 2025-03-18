@@ -47,6 +47,8 @@ A statistic undergraduate who has a passion for data science and building deep l
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" alt="CUDA" width="45" height="45" align="left"/>
 </a>
 
+</br>
+
 ---
 
 ## 📊 GitHub Stats:
