@@ -38,8 +38,8 @@ A statistic undergraduate who has a passion for data science and building deep l
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45" align="left"/>
 </a>
 [![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
-
 <br/>
+
 ## 📊 GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaprasetiyadi&show_icons=true&theme=dark)
