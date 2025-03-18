@@ -38,12 +38,8 @@ A statistic undergraduate who has a passion for data science and building deep l
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45" align="left"/>
 </a>
-<a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" alt="CUDA" width="45" height="45" align="left"/>
-</a>
+[![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
-<br/>
-<br/>
 ---
 
 ## 📊 GitHub Stats:
