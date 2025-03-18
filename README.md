@@ -7,12 +7,10 @@ A statistic undergraduate who has a passion for data science and building deep l
 - 🤝 I’m looking to collaborate on **open-source projects**
 - 📫 How to reach me: **[ismaprasetiyadi@gamil.com](mailto:ismaprasetiyadi@gmail.com)**
 
----
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IsmaPrasetiyadi)
 
----
 
 ### 🧰 Languages and Tools:
 
@@ -41,7 +39,6 @@ A statistic undergraduate who has a passion for data science and building deep l
 </a>
 [![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
----
 
 ## 📊 GitHub Stats:
 
