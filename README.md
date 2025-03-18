@@ -12,7 +12,7 @@ A statistic undergraduate who has a passion for data science and building deep l
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IsmaPrasetiyadi)
 
 
-### 🧰 Languages and Tools:
+## 🧰 Languages and Tools:
 
 [![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)](https://posit.co/products/open-source/rstudio/)
 [![R Shiny](https://img.shields.io/badge/-R%20Shiny-75AADB?style=flat&logo=r&logoColor=white)](https://shiny.posit.co/)
