@@ -10,7 +10,7 @@ A statistic undergraduate who has a passion for data science and building deep l
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-isma-prasetiyadi-a08097246)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-isma-prasetiyadi)
 
 ---
 
